@@ -9,6 +9,7 @@ This project aims to develop different applications in order to improve my knowl
 # Development Environment
 
 For this project I will use different technoligies, here a list of the ones used so far: 
+- Python
 - VS Code 
 - PyCharm 
 - MySQL Workbench
